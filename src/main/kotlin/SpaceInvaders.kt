@@ -12,8 +12,8 @@ import javafx.scene.text.Font
 import javafx.scene.text.TextAlignment
 import javafx.stage.Stage
 
-const val WINDOW_WIDTH = 1600.0
-const val WINDOW_HEIGHT = 900.0
+const val WINDOW_WIDTH = 1920.0
+const val WINDOW_HEIGHT = 1082.0
 
 class SpaceInvaders : Application()
 {
