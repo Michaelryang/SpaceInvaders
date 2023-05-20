@@ -1,11 +1,11 @@
 Michael Yang  
 Oracle OpenJDK version 17.0.2  
 
-**Visual Demo**
+**Visual Demo**  
 The following visual demo is a short playthrough of the three levels. To keep it short, I used the "god mode"
 to clean up the invaders quickly.
 
-**Description and Goals**
+**Description and Goals**  
 For this project, I wanted to accomplish two main things: Provide myself a basic introduction to the Kotlin
 programming language, and make a complete, playable game comprised of resources that I have made myself.
 This includes animations, art, music, and of course, all the code.
