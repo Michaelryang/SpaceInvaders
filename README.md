@@ -20,7 +20,7 @@ more time on was individually creating each bit of sound used in FL Studio, whic
 process, especially when all the individual sounds came together in the gameplay.
 
 **Extra Hotkeys**  
-G: God mode for ease of testing (much faster fire rate and move rate, cannot die unless aliens touch you). 
+G: God mode for ease of testing (much faster fire rate and move rate, cannot die unless aliens touch you).   
 M: Mute background music (you will have to restart the game if you want to turn music back on). 
   
 **Music and Artwork**  
